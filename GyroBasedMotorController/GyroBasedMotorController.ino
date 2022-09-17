@@ -1,7 +1,7 @@
 // Press Switch to Start Program //
 // Test Tracking Performance(Real Gait Cycle) //
 // Double Loop Position Controller(Gyro Based) //
-
+// Jinqiao //
 // For Leg and foot Gyroscope
 #include <Wire.h>
 const int MPU1 = 0x68;                             // MPU6050 I2C Address(leg)
