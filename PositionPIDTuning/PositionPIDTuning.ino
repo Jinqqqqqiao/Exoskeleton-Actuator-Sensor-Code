@@ -3,6 +3,7 @@
  Test Tracking Performance(Sine Wave)
  Double Loop Position Controller 
  Tuning Position PID 
+ ---------------Jinqiao--------------
 *************************************/
 
 // For Motor Controller
