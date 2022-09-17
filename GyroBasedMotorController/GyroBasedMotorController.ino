@@ -2,6 +2,7 @@
  Press Switch to Start Program 
  Test Tracking Performance(Real Gait Cycle) 
  Double Loop Position Controller(Gyro Based) 
+ ----------------Jinqiao---------------------
 *********************************************/
 
 // For Leg and foot Gyroscope
