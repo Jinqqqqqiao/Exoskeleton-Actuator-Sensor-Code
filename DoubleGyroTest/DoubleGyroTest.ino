@@ -2,6 +2,7 @@
 Please Check The performance of two gyroscope first
 Find out drift of sensors
 Check the performance of low pass filter
+---------------------Jinqiao-----------------------
  **************************************************/
 
 #include <Wire.h>
