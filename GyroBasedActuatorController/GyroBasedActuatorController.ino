@@ -2,7 +2,8 @@
  Press Switch to Start Program 
  Test Tracking Performance(Real Gait Cycle) 
  Double Loop Position Controller(Gyro Based)
- Choose Kalman Filter / Low Pass Filter to Deal with Raw Data 
+ Choose Kalman Filter / Low Pass Filter to Deal with Raw Data
+ --------------------------Jinqiao----------------------------
 *************************************************************/
 
 // For Leg and foot Gyroscope
